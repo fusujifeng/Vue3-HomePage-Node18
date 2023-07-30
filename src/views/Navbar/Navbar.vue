@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="navbar bg-base-100">
+  <div class="navbar fixed bg-base-100 z-50 rounded-b-xl shadow-lg">
     <div class="navbar-start">
       <a class="btn btn-ghost normal-case text-xl">TOTA</a>
     </div>
